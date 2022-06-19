@@ -4,7 +4,9 @@ import Table from "./Components/Table";
 
 const App = () => {
   return (
-    <Table />
+    <div>
+      <Table />
+    </div>
   );
 }
 
